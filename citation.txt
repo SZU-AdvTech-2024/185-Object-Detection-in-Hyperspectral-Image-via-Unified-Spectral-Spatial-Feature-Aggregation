@@ -2,7 +2,6 @@
     author = "He, Xiao and Tang, Chang and Liu, Xinwang and Zhang, Wei and Sun, Kun and Xu, Jiangfeng",
     doi = "10.1109/TGRS.2023.3307288",
     journal = "IEEE Transactions on Geoscience and Remote Sensing",
-    keywords = "Hyperspectral imaging;Object detection;Feature extraction;Detectors;Annotations;Semantics;Termination of employment;Deep learning;feature fusion;hyperspectral image (HSI) object detection;spectral–spatial aggregation (SSA)",
     number = "",
     pages = "1-13",
     title = "{Object Detection in Hyperspectral Image via Unified Spectral–Spatial Feature Aggregation}",
